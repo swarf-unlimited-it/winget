@@ -5,6 +5,7 @@ Microsoft.Office
 Microsoft.OneDrive
 Microsoft.Teams
 Microsoft.Teams.Classic
+Microsoft.VCRedist.2015+.x64
 Mozilla.Firefox*
 TeamViewer.TeamViewer*
 Microsoft.RemoteDesktopClient
