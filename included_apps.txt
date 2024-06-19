@@ -5,3 +5,4 @@ Notepad++.Notepad++
 Microsoft.VisualStudioCode
 Adobe.Acrobat.Reader.64-bit
 XPFNZKSKLBP7RJ
+PuTTY.PuTTY
