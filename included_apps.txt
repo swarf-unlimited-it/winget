@@ -1,3 +1,7 @@
 Bitwarden.Bitwarden
 WireGuard.WireGuard
 WinSCP.WinSCP
+Notepad++.Notepad++
+Microsoft.VisualStudioCode
+Adobe.Acrobat.Reader.64-bit
+XPFNZKSKLBP7RJ
