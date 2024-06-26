@@ -6,3 +6,4 @@ Microsoft.VisualStudioCode
 Adobe.Acrobat.Reader.64-bit
 XPFNZKSKLBP7RJ
 PuTTY.PuTTY
+7zip.7zip
