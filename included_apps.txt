@@ -9,3 +9,4 @@ PuTTY.PuTTY
 7zip.7zip
 NTKERNEL.WireSockVPNClient
 Git.Git
+Audacity.Audacity
