@@ -10,3 +10,5 @@ PuTTY.PuTTY
 NTKERNEL.WireSockVPNClient
 Git.Git
 Audacity.Audacity
+JAMSoftware.TreeSize.Free
+Python.Python*
