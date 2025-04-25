@@ -12,3 +12,4 @@ Git.Git
 Audacity.Audacity
 JAMSoftware.TreeSize.Free
 Python.Python*
+Romanitho.Winget-AutoUpdate
